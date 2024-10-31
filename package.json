@@ -1,0 +1,18 @@
+{
+  "name": "mm-utility",
+  "version": "1.0.0",
+  "description": "A collection of useful utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mm-parasm/is-test-npm-package.git)"
+  },
+  "keywords": [
+    "mm-utility"
+  ],
+  "author": "mm-farman (mm.farman@gmail.com)",
+  "license": "ISC"
+}
